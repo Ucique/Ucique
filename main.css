@@ -1,4 +1,7 @@
 body {
+  background-image: url('HERO.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
   margin: 0;
   font-family: 'Georgia', serif;
   background-color: #000;
@@ -6,9 +9,6 @@ body {
   overflow-x: hidden;
 }
 header {
-  background-image: url('HERO.jpg');
-  background-repeat: no-repeat;
-  background-size: contain;
   height: 100vh;
   display: flex;
   flex-direction: column;
