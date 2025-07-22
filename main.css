@@ -1,7 +1,9 @@
-body {
+.frosk {
   background-image: url('HERO.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+}
+body {
   margin: 0;
   font-family: 'Georgia', serif;
   background-color: #000;
