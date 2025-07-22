@@ -6,7 +6,7 @@ body {
   overflow-x: hidden;
 }
 header {
-  background-image: url('public/HERO.jpg');
+  background-image: url('HERO.jpg');
   background-repeat: no-repeat;
   background-size: contain;
   height: 100vh;
