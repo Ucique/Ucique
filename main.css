@@ -8,6 +8,7 @@ body {
 header {
   background-image: url('public/HERO.jpg');
   background-repeat: no-repeat;
+  background-size: contain;
   height: 100vh;
   display: flex;
   flex-direction: column;
